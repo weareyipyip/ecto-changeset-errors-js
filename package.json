@@ -2,8 +2,8 @@
   "name": "@weareyipyip/ecto-changeset-errors",
   "version": "0.0.0+development",
   "description": "Handle (Elixir Ecto) changeset errors format in JS/TS.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/index",
+  "types": "dist/index",
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc",
