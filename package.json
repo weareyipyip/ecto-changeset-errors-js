@@ -3,7 +3,7 @@
   "version": "0.0.0+development",
   "description": "Handle (Elixir Ecto) changeset errors format in JS/TS.",
   "main": "dist/index.js",
-  "types": "dist/types.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc",
