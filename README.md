@@ -29,7 +29,7 @@ which you can then match on to handle the errors. There's also an `onUnexpectedE
 ## Installation
 
 ```bash
-npm i -s @weareyipyip/ecto-changeset-errors-js
+npm i -s @weareyipyip/ecto-changeset-errors
 ```
 
 ## Usage
