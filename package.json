@@ -1,0 +1,26 @@
+{
+  "name": "ecto-changeset-errors",
+  "version": "1.0.0",
+  "description": "Handle (Elixir Ecto) changeset errors format in JS/TS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weareyipyip/ecto-changeset-errors-js.git"
+  },
+  "keywords": [
+    "elixir",
+    "ecto",
+    "changeset",
+    "error handling",
+    "REST"
+  ],
+  "author": "weareyipyip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weareyipyip/ecto-changeset-errors-js/issues"
+  },
+  "homepage": "https://github.com/weareyipyip/ecto-changeset-errors-js#readme"
+}
